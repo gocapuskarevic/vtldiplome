@@ -18,5 +18,5 @@ $dompdf->setPaper('A4', 'landscape');
 $dompdf->render();
 
 
-$dompdf->stream('name',array('Attachment'=>1));
+$dompdf->stream('name',array('Attachment'=>0));
 ?> 
