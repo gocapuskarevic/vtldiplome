@@ -1,0 +1,1 @@
+define("DOMPDF_ENABLE_AUTOLOAD", false);
