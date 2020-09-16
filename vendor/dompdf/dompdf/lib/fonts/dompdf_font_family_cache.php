@@ -84,12 +84,15 @@
     'bold_italic' => $fontDir . '/NotoSans-Regular',
   ),
   'noto serif' => array(
-    'normal' => $fontDir . '/NotoSerif-Regular',
+    'normal' => $fontDir . '/NotoSerif-Bold',
     'bold' => $fontDir . '/NotoSerif-Regular',
-    'italic' => $fontDir . '/NotoSerif-Regular',
-    'bold_italic' => $fontDir . '/NotoSerif-Regular',
+    'italic' => $fontDir . '/NotoSerif-Bold',
+    'bold_italic' => $fontDir . '/NotoSerif-Bold',
   ),
   'noto' => array(
     'normal' => $fontDir . '\9d37e397b8c6083517b4e357a8098d2f',
+  ),
+  'noto serif bold' => array(
+    'bold' => $fontDir . '\9b34c1dde1e1f7af57b7aade94152ffe',
   ),
 ) ?>
