@@ -12,7 +12,7 @@ $fn = fopen('takmicari.csv',"r");
     $dompdf->set_option('defaultMediaType', 'all');
     $tmp = explode(',',fgets($fn));
     $name = $tmp[2];
-    $length = $tmp[11];
+    $length = '23.7 km';
     $time = $tmp[5];
     $html = '
     <html>
