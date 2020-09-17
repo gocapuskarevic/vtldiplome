@@ -1,4 +1,5 @@
 @page {
+  size: 25cm 19cm;
   margin: 0;
 }
 
@@ -20,7 +21,7 @@ body{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  color: #3b3d52;
+  color: #27293d;
 }
 
 .wrapper{
@@ -34,23 +35,21 @@ body{
 
 .content{
   text-align: center;
-  padding: 60px;
+  padding: 40px;
 }
 
 h1{
   font-family: 'Noto Sans', serif;
   font-size: 90px;
-  text-shadow: 1px 4px 3px black;
 }
 
 h2{
   font-family: 'Noto Serif', sans-serif;
   font-size: 50px;
-  color: #27293d;
+  
 }
 
 p{
-  color: #27293d;
   font-family: 'Noto Serif', sans-serif;
 }
 
@@ -75,7 +74,7 @@ p{
 }
 
 .date{
-  margin-top: 300px;
+  margin-top: 250px;
 }
 
 .date p{
