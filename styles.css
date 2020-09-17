@@ -50,6 +50,12 @@ h2{
   color: #27293d;
 }
 
+h3{
+  font-family: 'Noto Serif';
+  font-size: 30px;
+  margin-top: -50px;
+}
+
 p{
   color: #27293d;
   font-family: 'Noto Serif', sans-serif;
@@ -76,7 +82,7 @@ p{
 }
 
 .date{
-  margin-top: 250px;
+  margin-top: 200px;
 }
 
 .date p{
