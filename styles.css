@@ -48,6 +48,11 @@ h2{
   font-size: 50px;
   
 }
+h3{
+  font-family: 'Noto Serif';
+  font-size: 30px;
+  margin-top: -50px;
+}
 
 p{
   font-family: 'Noto Serif', sans-serif;
@@ -74,7 +79,7 @@ p{
 }
 
 .date{
-  margin-top: 250px;
+  margin-top: 200px;
 }
 
 .date p{
