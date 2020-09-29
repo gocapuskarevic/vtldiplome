@@ -95,4 +95,10 @@
   'noto serif bold' => array(
     'bold' => $fontDir . '\9b34c1dde1e1f7af57b7aade94152ffe',
   ),
+  'barlow' => array(
+    'normal' => $fontDir . '/BarlowCondensed-Regular',
+    'bold' => $fontDir . '/BarlowCondensed-Bold',
+    'italic' => $fontDir . '/BarlowCondensed-Regular',
+    'bold_italic' => $fontDir . '/BarlowCondensed-Regular',
+  ),
 ) ?>

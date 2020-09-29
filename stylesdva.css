@@ -16,20 +16,19 @@
 }
 
 body{
-  /* background-image: url(ludosko3.png);
-  background-repeat: no-repeat; */
-  background-color: #2E4135;
-  color: #9AB352;
+  background-image: url(test.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #fbf5f2;
+  color: #001c30;
   font-family: 'Barlow', sans-serif;
 }
 
 .left-side{
-  width: 400px;
+  width: 500px;
   height: 100%;
-  background-image: url(miratanja.png);
-  background-repeat: no-repeat;
-  background-size: cover;
   display: inline-block;
+  overflow: visible;
 }
 
 .right-side{
@@ -54,17 +53,18 @@ h1{
   font-size: 90px;
   margin-top: -30px;
   font-weight: normal;
-  color: #DDE1DF;
+  color:#00ad8a;
 }
 
 h2{
   font-size: 50px;
   font-weight: normal;
+  margin-top: -50px;
 }
 h3{
   font-size: 30px;
   font-weight: normal;
-  color: #DDE1DF;
+  color:#00ad8a;
 }
 
 p{
@@ -72,13 +72,17 @@ p{
 }
 
 span{
-  color: #9AB352;
+  color: #001c30;
 }
 
 .data{
   display: inline-block;
-  padding-top: 50px;
+  padding-top: 10px;
   font-size: 30px;
+}
+
+.logo{
+  margin-right: 15px;
 }
 
 
@@ -95,7 +99,7 @@ span{
 }
 
 .data p{
-  color: #DDE1DF;
+  color:#00ad8a;
 }
 
 #second{
@@ -105,6 +109,6 @@ span{
 .date p{
   font-size: 20px;
   font-size: 20px;
-  margin-top: 40px;
+  margin-top: 60px;
 }
 
