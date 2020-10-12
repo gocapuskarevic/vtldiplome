@@ -20,7 +20,7 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #fbf5f2;
-  color: #001c30;
+  color: #00ad8a;
   font-family: 'Barlow', sans-serif;
 }
 
@@ -53,31 +53,26 @@ h1{
   font-size: 90px;
   margin-top: -30px;
   font-weight: normal;
-  color:#00ad8a;
 }
 
 h2{
   font-size: 50px;
   font-weight: normal;
-  margin-top: -50px;
+  margin-top: 30px;
 }
 h3{
   font-size: 30px;
   font-weight: normal;
-  color:#00ad8a;
-}
-
-p{
-  
+  color:#0b3e5d;
 }
 
 span{
-  color: #001c30;
+  color: #0b3e5d;
 }
 
 .data{
   display: inline-block;
-  padding-top: 10px;
+  padding-top: 30px;
   font-size: 30px;
 }
 
@@ -98,17 +93,12 @@ span{
   float: right;
 }
 
-.data p{
-  color:#00ad8a;
-}
-
 #second{
   padding-left: 130px;
 }
 
 .date p{
   font-size: 20px;
-  font-size: 20px;
-  margin-top: 60px;
+  padding-bottom: 15px;
+  margin-top: 15px;
 }
-
