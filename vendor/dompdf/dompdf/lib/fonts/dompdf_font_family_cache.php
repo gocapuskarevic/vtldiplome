@@ -98,4 +98,22 @@
   'barlow' => array(
     'normal' => $fontDir . '\373ba1847be7ef09807e4b191eefe2ab',
   ),
+  'greatvibes' => array(
+    'normal' => $fontDir . '/GreatVibes-Regular',
+    'bold' => $fontDir . '/GreatVibes-Regular',
+    'italic' => $fontDir . '/GreatVibes-Regular',
+    'bold_italic' => $fontDir . '/GreatVibes-Regular',
+  ),
+  'opensans' => array(
+    'normal' => $fontDir . '/OpenSans-Bold',
+    'bold' => $fontDir . '/OpenSans-Italic',
+    'italic' => $fontDir . '/OpenSans-Light',
+    'bold_italic' => $fontDir . '/OpenSans-Regular',
+  ),
+  'opensanslighter' => array(
+    'normal' => $fontDir . '/OpenSans-Light',
+    'bold' => $fontDir . '/OpenSans-Light',
+    'italic' => $fontDir . '/OpenSans-Light',
+    'bold_italic' => $fontDir . '/OpenSans-Light',
+  ),
 ) ?>
