@@ -11,9 +11,9 @@ $dompdf->set_option('chroot', 'C:\wamp64\www\vtldiplome');
 $dompdf->set_option('defaultMediaType', 'all');
 $dompdf->set_option('isFontSubsettingEnabled', true);
 
-//$html = file_get_contents('druga.html');
+$html = file_get_contents('zasavica2020.html');
 
-$html = '<html>
+/*$html = '<html>
 <head>
   <link rel="stylesheet" type="text/css" media="all" href="stylesdva.css" />
   <meta charset="UTF-8">
@@ -48,7 +48,7 @@ $html = '<html>
     </div>
   </div>
 </body>
-</html>';
+</html>';*/
 
 $dompdf->loadHtml($html);
 
