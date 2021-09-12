@@ -116,4 +116,19 @@
     'italic' => $fontDir . '/OpenSans-Light',
     'bold_italic' => $fontDir . '/OpenSans-Light',
   ),
+  'dancingscript' => array(
+    'normal' => $fontDir . '/DancingScript-Regular',
+    'bold' => $fontDir . '/DancingScript-Regular',
+    'italic' => $fontDir . '/DancingScript-Regular',
+    'bold_italic' => $fontDir . '/DancingScript-Regular',
+  ),
+  'dancing' => array(
+    'normal' => $fontDir . '\910e64a44172df1473bd237380262c3f',
+  ),
+  'merriweather' => array(
+    'normal' => $fontDir . '/Merriweather-Regular',
+    'bold' => $fontDir . '/Merriweather-Regular',
+    'italic' => $fontDir . '/Merriweather-Regular',
+    'bold_italic' => $fontDir . '/Merriweather-Regular',
+  ),
 ) ?>
